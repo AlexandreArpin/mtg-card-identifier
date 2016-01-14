@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#PyCharm
+*/.idea/
+
+db.sqlite3
+
+mtg_card_identifier/mtg_card_identifier_core/static/latest/

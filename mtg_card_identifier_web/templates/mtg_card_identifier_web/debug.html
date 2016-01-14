@@ -1,0 +1,44 @@
+{% extends "mtg_card_identifier_web/base.html" %}
+{% load staticfiles %}
+
+{% block title %}Magic the Gathering Card Detector {% endblock %}
+
+{% block content %}
+    <!-- Header -->
+    <header id="header">
+        <h1>Debug</h1>
+    </header>
+
+    <h3>Identifier Debug</h3>
+    <pre><code class="prettyprint">{{ debug_data }}</code></pre>
+
+
+    <h3>Raw</h3>
+    <div><img src="{% static "latest/latest_raw.jpg" %}"></div>
+
+    <h3>Crop</h3>
+    <div><img src="{% static "latest/latest_crop.jpg" %}"></div>
+
+    <h3>Name Crop</h3>
+    <div>
+        <img src="{% static "latest/latest_name.jpg" %}">
+    </div>
+
+    <h3>Text Crop</h3>
+    <div>
+        <img src="{% static "latest/latest_text.jpg" %}">
+    </div>
+
+    <h3>Type Crop</h3>
+    <div>
+        <img src="{% static "latest/latest_type.jpg" %}">
+    </div>
+
+    <h3>Number and Edition Crop</h3>
+    <div>
+        <img src="{% static "latest/latest_number.jpg" %}">
+    </div>
+
+
+
+{% endblock %}

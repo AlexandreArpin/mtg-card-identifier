@@ -1,0 +1,33 @@
+{% extends "mtg_card_identifier_web/base.html" %}
+
+{% block title %}Magic the Gathering Card Detector {% endblock %}
+
+{% block content %}
+    <!-- Header -->
+    <header id="header">
+        <h1>Magic the Gathering Card Detector</h1>
+        <p>Upload, paste or link an image containing a Magic the Gathering card (M15, KTK, FRF, DTK, ORI and BFZ only)</p>
+    </header>
+
+    <!-- Upload Form -->
+    <form id="signup-form" method="post" action="{% url "mtg_card_identifier_web:index" %}" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.image }}
+        <input type="submit" value="Push it" />
+    </form>
+    {% if result %}
+        <div>
+            <h1>Result - {{ card.name }}</h1>
+            <div class="flexbox-container">
+                <div style="width:20%;">
+                    <img src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid={{ card.multiverseid }}&type=card">
+                </div>
+                <div style="width:80%;">
+                    <pre><code class="prettyprint">{{ result }}</code></pre>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+
+
+{% endblock %}

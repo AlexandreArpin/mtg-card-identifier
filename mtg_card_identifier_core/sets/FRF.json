@@ -1,0 +1,4984 @@
+{
+  "name": "Fate Reforged",
+  "code": "FRF",
+  "magicCardsInfoCode": "frf",
+  "releaseDate": "2015-01-23",
+  "border": "black",
+  "type": "expansion",
+  "block": "Khans of Tarkir",
+  "booster": [
+    [
+      "rare",
+      "mythic rare"
+    ],
+    "uncommon",
+    "uncommon",
+    "uncommon",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "common",
+    "land",
+    "marketing"
+  ],
+  "cards": [
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 8,
+      "id": "345e1df641637e7f7a625153cbef4b4ce8d53dc7",
+      "imageName": "ugin, the spirit dragon",
+      "layout": "normal",
+      "loyalty": 7,
+      "manaCost": "{8}",
+      "multiverseid": 391948,
+      "name": "Ugin, the Spirit Dragon",
+      "number": "1",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Ugin"
+      ],
+      "text": "+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.\n−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+      "type": "Planeswalker — Ugin",
+      "types": [
+        "Planeswalker"
+      ]
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"To survive, you must seize every opportunity.\"\n—Daghatar the Adamant",
+      "id": "733e061dcba526441aec9d39e1ac9620e743dadf",
+      "imageName": "abzan advantage",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391781,
+      "name": "Abzan Advantage",
+      "number": "2",
+      "rarity": "Common",
+      "text": "Target player sacrifices an enchantment. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "James Ryman",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "5a0f7c25c35167ade435d406d99e51cf5245baf6",
+      "imageName": "abzan runemark",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391784,
+      "name": "Abzan Runemark",
+      "number": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has vigilance as long as you control a black or green permanent.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"A tempest is coming. Turn your faces toward the wind!\"",
+      "id": "3e1bf6629cd55ddfa0d2dbf2c190d7ceb0957e2a",
+      "imageName": "abzan skycaptain",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "multiverseid": 391785,
+      "name": "Abzan Skycaptain",
+      "number": "4",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Bird",
+        "Soldier"
+      ],
+      "text": "Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+      "toughness": "2",
+      "type": "Creature — Bird Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"We'll have time to put out the fires when those trapped within the ruins are safe.\"",
+      "id": "92b3fd54f0cb929f1250af99e5744ad5c67d2595",
+      "imageName": "arashin cleric",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391791,
+      "name": "Arashin Cleric",
+      "number": "5",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "text": "When Arashin Cleric enters the battlefield, you gain 3 life.",
+      "toughness": "3",
+      "type": "Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Jason Rainville",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"We do not hide from the dragons that pretend to rule the skies. If we did, the dragons would become our rulers, and our way of life would be lost.\"",
+      "id": "05b51ac72f8a8c32a5d217468b862e8c32e1e71a",
+      "imageName": "aven skirmisher",
+      "layout": "normal",
+      "manaCost": "{W}",
+      "multiverseid": 391797,
+      "name": "Aven Skirmisher",
+      "number": "6",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Bird",
+        "Warrior"
+      ],
+      "text": "Flying",
+      "toughness": "1",
+      "type": "Creature — Bird Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "215a35be0e410d4dc00dfc53d40ff81ed81eb408",
+      "imageName": "channel harm",
+      "layout": "normal",
+      "manaCost": "{5}{W}",
+      "multiverseid": 391808,
+      "name": "Channel Harm",
+      "number": "7",
+      "rarity": "Uncommon",
+      "text": "Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Steven Belledin",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "e51555c422ffef6c4224f9937aea36f09032d20d",
+      "imageName": "citadel siege",
+      "layout": "normal",
+      "manaCost": "{2}{W}{W}",
+      "multiverseid": 391809,
+      "name": "Citadel Siege",
+      "number": "8",
+      "rarity": "Rare",
+      "text": "As Citadel Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.\n• Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Zack Stella",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Our victories will protect a thousand generations.\"",
+      "id": "dfb7a3950c0d91afb410928d9febcd9c709cca46",
+      "imageName": "daghatar the adamant",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "multiverseid": 391815,
+      "name": "Daghatar the Adamant",
+      "number": "9",
+      "power": "0",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Vigilance\nDaghatar the Adamant enters the battlefield with four +1/+1 counters on it.\n{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.",
+      "toughness": "0",
+      "type": "Legendary Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "He has spent years training his eyes and ears to detect the subtle signs of a dragon's approach.",
+      "id": "f0d88793f6b6e42f7aff2293b48e2e48c37aec16",
+      "imageName": "dragon bell monk",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391822,
+      "name": "Dragon Bell Monk",
+      "number": "10",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+      "toughness": "2",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Volkan Baga",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Dragons seek war. I bring it to them.\"",
+      "id": "021d11581b0051e381d2f7a3e9fc71427e5d00aa",
+      "imageName": "dragonscale general",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "multiverseid": 391824,
+      "name": "Dragonscale General",
+      "number": "11",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)",
+      "toughness": "3",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "57dda5265b7c750cacf60b247cdafdc0e7b8a59d",
+      "imageName": "elite scaleguard",
+      "layout": "normal",
+      "manaCost": "{4}{W}",
+      "multiverseid": 391826,
+      "name": "Elite Scaleguard",
+      "number": "12",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "text": "When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)\nWhenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls.",
+      "toughness": "3",
+      "type": "Creature — Human Soldier",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "YW Tang",
+      "cmc": 5,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Perfectly suited for life in the Shifting Wastes, the krushok is well protected by its horn, its hide, and its temper.",
+      "id": "8b43c8be23055cd3a34302c24f39a509c81d92bb",
+      "imageName": "great-horn krushok",
+      "layout": "normal",
+      "manaCost": "{4}{W}",
+      "multiverseid": 391848,
+      "name": "Great-Horn Krushok",
+      "number": "13",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Beast"
+      ],
+      "toughness": "5",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "It seldom rains in Abzan lands. When it does, the khan marks the occasion by honoring the families of the fallen.",
+      "id": "72c5a2f5638a738a65c74a36aab4c4a682c60591",
+      "imageName": "honor's reward",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391854,
+      "name": "Honor's Reward",
+      "number": "14",
+      "rarity": "Uncommon",
+      "text": "You gain 4 life. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "d6634a7f04ea5ffffa29ce18cd4d05dd27652bb8",
+      "imageName": "jeskai barricade",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391861,
+      "name": "Jeskai Barricade",
+      "number": "15",
+      "power": "0",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Wall"
+      ],
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nDefender\nWhen Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.",
+      "toughness": "4",
+      "type": "Creature — Wall",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "32b7b9a8101d13c6bfeaaccaa2d324b764aa947c",
+      "imageName": "lightform",
+      "layout": "normal",
+      "manaCost": "{1}{W}{W}",
+      "multiverseid": 391867,
+      "name": "Lightform",
+      "number": "16",
+      "rarity": "Uncommon",
+      "text": "When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and lifelink.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Every action has a foreseen purpose.",
+      "id": "cde92cd5a5e010f0efd174e8088663f2468ad9c6",
+      "imageName": "lotus-eye mystics",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "multiverseid": 391870,
+      "name": "Lotus-Eye Mystics",
+      "number": "17",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.",
+      "toughness": "2",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 1,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Those who died in battle deserve their rest.\"",
+      "id": "9f9c192cf536c8d72462640975b9c536740c57a8",
+      "imageName": "mardu woe-reaper",
+      "layout": "normal",
+      "manaCost": "{W}",
+      "multiverseid": 391877,
+      "name": "Mardu Woe-Reaper",
+      "number": "18",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.",
+      "toughness": "1",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Daniel Ljunggren",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "e9a8effac326a418be57ab9ca119f1cd7f0ba80a",
+      "imageName": "mastery of the unseen",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391878,
+      "name": "Mastery of the Unseen",
+      "number": "19",
+      "rarity": "Rare",
+      "text": "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Magali Villeneuve",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Speak little. Do much.\"",
+      "id": "ecb3188654ff8046d65f35b7f07d33aae1410b00",
+      "imageName": "monastery mentor",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391883,
+      "name": "Monastery Mentor",
+      "number": "20",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.",
+      "toughness": "2",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "By studying dragon anatomy, Jeskai monks have learned how to locate clusters of nerves that will incapacitate even the mightiest dragons.",
+      "id": "6db567b6f022085e8df10d6af5376833403a96a3",
+      "imageName": "pressure point",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391896,
+      "name": "Pressure Point",
+      "number": "21",
+      "rarity": "Common",
+      "text": "Tap target creature.\nDraw a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"The family is a tree, and in times of need, every branch can be a weapon.\"\n—Daghatar the Adamant",
+      "id": "5b988cd1b1af8a36d72c65903403e568cf0adf40",
+      "imageName": "rally the ancestors",
+      "layout": "normal",
+      "manaCost": "{X}{W}{W}",
+      "multiverseid": 391901,
+      "name": "Rally the Ancestors",
+      "number": "22",
+      "rarity": "Rare",
+      "text": "Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jason Rainville",
+      "cmc": 4,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "1b288e222a0bbe7e925666d8fc1ebd446b14b2b9",
+      "imageName": "sage's reverie",
+      "layout": "normal",
+      "manaCost": "{3}{W}",
+      "multiverseid": 391910,
+      "name": "Sage's Reverie",
+      "number": "23",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.\nEnchanted creature gets +1/+1 for each Aura you control that's attached to a creature.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "In the Shifting Wastes, more are killed by sand than by steel.",
+      "id": "8b0bee41b0d6ac889652217d5af2375dc12f27b8",
+      "imageName": "sandblast",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391912,
+      "name": "Sandblast",
+      "number": "24",
+      "rarity": "Common",
+      "text": "Sandblast deals 5 damage to target attacking or blocking creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 3,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "c030cd55080773ae443b224272466be716211782",
+      "imageName": "sandsteppe outcast",
+      "layout": "normal",
+      "manaCost": "{2}{W}",
+      "multiverseid": 391914,
+      "name": "Sandsteppe Outcast",
+      "number": "25",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "When Sandsteppe Outcast enters the battlefield, choose one —\n• Put a +1/+1 counter on Sandsteppe Outcast.\n• Put a 1/1 white Spirit creature token with flying onto the battlefield.",
+      "toughness": "1",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Johann Bodin",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Ugin's magic reaches beyond the dragons. The clans have adapted it for war.",
+      "id": "a154155b0de3c97c056b23524d731f49fbb0efe2",
+      "imageName": "soul summons",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391926,
+      "name": "Soul Summons",
+      "number": "26",
+      "rarity": "Common",
+      "text": "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Johannes Voss",
+      "cmc": 2,
+      "colorIdentity": [
+        "W",
+        "U",
+        "R"
+      ],
+      "colors": [
+        "White"
+      ],
+      "id": "0b1e0d7462b240c515cf5083cbcaed2fbb5cd5be",
+      "imageName": "soulfire grand master",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391927,
+      "name": "Soulfire Grand Master",
+      "number": "27",
+      "power": "2",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Lifelink\nInstant and sorcery spells you control have lifelink.\n{2}{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.",
+      "toughness": "2",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Every choice alters the path of fate.\"\n—Sarkhan Vol",
+      "id": "fa93e125a0c93ecfe8d9b74c6cd166d303beb181",
+      "imageName": "valorous stance",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391950,
+      "name": "Valorous Stance",
+      "number": "28",
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Target creature gains indestructible until end of turn.\n• Destroy target creature with toughness 4 or greater.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Willian Murai",
+      "cmc": 2,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "\"Learn from your enemies, but do not tolerate them.\"",
+      "id": "298cfd2cf893f09e1fc1e3c2cc4324dd18dcb5cb",
+      "imageName": "wandering champion",
+      "layout": "normal",
+      "manaCost": "{1}{W}",
+      "multiverseid": 391952,
+      "name": "Wandering Champion",
+      "number": "29",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.",
+      "toughness": "1",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Jason Rainville",
+      "cmc": 6,
+      "colorIdentity": [
+        "W"
+      ],
+      "colors": [
+        "White"
+      ],
+      "flavor": "Dromoka's brood emerge from the dragon tempests covered with tough scales that protect them from most clan weapons and magic.",
+      "id": "f4260790d5abf556edbcc9279f625e8159a2805d",
+      "imageName": "wardscale dragon",
+      "layout": "normal",
+      "manaCost": "{4}{W}{W}",
+      "multiverseid": 391955,
+      "name": "Wardscale Dragon",
+      "number": "30",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nAs long as Wardscale Dragon is attacking, defending player can't cast spells.",
+      "toughness": "4",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dromoka"
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "821593379631cdddd66227635ace9b4f0906f23a",
+      "imageName": "aven surveyor",
+      "layout": "normal",
+      "manaCost": "{3}{U}{U}",
+      "multiverseid": 391798,
+      "name": "Aven Surveyor",
+      "number": "31",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Bird",
+        "Scout"
+      ],
+      "text": "Flying\nWhen Aven Surveyor enters the battlefield, choose one —\n• Put a +1/+1 counter on Aven Surveyor.\n• Return target creature to its owner's hand.",
+      "toughness": "2",
+      "type": "Creature — Bird Scout",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Noah Bradley",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "e59b5f6e184355a9c14e95129c48506bfcd66c23",
+      "imageName": "cloudform",
+      "layout": "normal",
+      "manaCost": "{1}{U}{U}",
+      "multiverseid": 391810,
+      "name": "Cloudform",
+      "number": "32",
+      "rarity": "Uncommon",
+      "text": "When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and hexproof.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Ryan Alexander Lee",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Study the topography of your enemies, and you will have a map to victory.\"\n—Shu Yun, the Silent Tempest",
+      "id": "6fdd1ead9d94378ff8cb4b13b3561ab51287b0db",
+      "imageName": "enhanced awareness",
+      "layout": "normal",
+      "manaCost": "{4}{U}",
+      "multiverseid": 391827,
+      "name": "Enhanced Awareness",
+      "number": "33",
+      "rarity": "Common",
+      "text": "Draw three cards, then discard a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "b6ecc4baa4a7b69c114e5ffa0e7d02a4fb1dbc9d",
+      "imageName": "fascination",
+      "layout": "normal",
+      "manaCost": "{X}{U}{U}",
+      "multiverseid": 391829,
+      "name": "Fascination",
+      "number": "34",
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Each player draws X cards.\n• Each player puts the top X cards of his or her library into his or her graveyard.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Mike Bierek",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"As the clans carved out their territories, we saw allies where the Mardu saw only obstacles.\"\n—Yasova Dragonclaw",
+      "id": "4b67c3f267e0b76a9369410b200267e4f89f3ab5",
+      "imageName": "frost walker",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391841,
+      "name": "Frost Walker",
+      "number": "35",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "When Frost Walker becomes the target of a spell or ability, sacrifice it.",
+      "toughness": "1",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Cynthia Sheppard",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "8821e666be081a775251c8bec84970fb3bd885a1",
+      "imageName": "jeskai infiltrator",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391862,
+      "name": "Jeskai Infiltrator",
+      "number": "36",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "toughness": "3",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "0a6d8a38d9b45bec4c04f61ea963fbfd3f16fe0e",
+      "imageName": "jeskai runemark",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391863,
+      "name": "Jeskai Runemark",
+      "number": "37",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has flying as long as you control a red or white permanent.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Craig J Spearing",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The one who conquers the mind is greater than the one who conquers the world.\"",
+      "id": "a41ea313bf79e5bf7707962cfb5f2150f5140161",
+      "imageName": "jeskai sage",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391864,
+      "name": "Jeskai Sage",
+      "number": "38",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Jeskai Sage dies, draw a card.",
+      "toughness": "1",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Steve Argyle",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The lotus takes root where body and mind intersect. It blooms when body and mind become one.\"",
+      "id": "4e5aae3e7a1adf2ae4ca45712c7bff071cc080dc",
+      "imageName": "lotus path djinn",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "multiverseid": 391869,
+      "name": "Lotus Path Djinn",
+      "number": "39",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Djinn",
+        "Monk"
+      ],
+      "text": "Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+      "toughness": "3",
+      "type": "Creature — Djinn Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Yefim Kligerman",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "The currents of the Marang wash away both tracks and blood.",
+      "id": "3d660a75ac9fcf331d7448430261027ba510203a",
+      "imageName": "marang river prowler",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391872,
+      "name": "Marang River Prowler",
+      "number": "40",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Rogue"
+      ],
+      "text": "Marang River Prowler can't block and can't be blocked.\nYou may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.",
+      "toughness": "1",
+      "type": "Creature — Human Rogue",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Wesley Burt",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The bells may one day ring as an anthem of our own end.\"\n—Kyu, Sage-Eye mystic",
+      "id": "3e3fa76659cb3819347c083bc00c7272e9e7844c",
+      "imageName": "mindscour dragon",
+      "layout": "normal",
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 391880,
+      "name": "Mindscour Dragon",
+      "number": "41",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard.",
+      "toughness": "4",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Ojutai"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 4,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"The quieter the skies, the calmer the mind.\"",
+      "id": "eed6bb021bdee8a71bf6618ad0039cb007f1f86c",
+      "imageName": "mistfire adept",
+      "layout": "normal",
+      "manaCost": "{3}{U}",
+      "multiverseid": 391881,
+      "name": "Mistfire Adept",
+      "number": "42",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, target creature gains flying until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Mark Winters",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "0649b17c91f428c3d6508686e90bdc0df6721564",
+      "imageName": "monastery siege",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391884,
+      "name": "Monastery Siege",
+      "number": "43",
+      "rarity": "Rare",
+      "text": "As Monastery Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your draw step, draw an additional card, then discard a card.\n• Dragons — Spells your opponents cast that target you or a permanent you control cost {2} more to cast.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"To defeat your enemies, you must remove their ability to make war against you.\"",
+      "id": "b9d3922c698817e829c08b85689436b7cbee6090",
+      "imageName": "neutralizing blast",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391887,
+      "name": "Neutralizing Blast",
+      "number": "44",
+      "rarity": "Uncommon",
+      "text": "Counter target multicolored spell.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Seb McKinnon",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Every failure, every death only makes my strength greater.\"",
+      "id": "30831a28b97ebd696188d5d1550d9e1d55a4aa6a",
+      "imageName": "rakshasa's disdain",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391900,
+      "name": "Rakshasa's Disdain",
+      "number": "45",
+      "rarity": "Common",
+      "text": "Counter target spell unless its controller pays {1} for each card in your graveyard.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Howard Lyon",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "440252bfa3e09a63db0877f9897ace7107a9a648",
+      "imageName": "reality shift",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391903,
+      "name": "Reality Shift",
+      "number": "46",
+      "rarity": "Uncommon",
+      "text": "Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Before you can open your third eye, you must prove you can open the first two.\"",
+      "id": "21711bb71088e94e6aec285091e7536bef1da66e",
+      "imageName": "refocus",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391904,
+      "name": "Refocus",
+      "number": "47",
+      "rarity": "Common",
+      "text": "Untap target creature.\nDraw a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "ef0fe275d7e5625b20f4c5cd7fc34301df0bea6d",
+      "imageName": "renowned weaponsmith",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391905,
+      "name": "Renowned Weaponsmith",
+      "number": "48",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Artificer"
+      ],
+      "text": "{T}: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.\n{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.",
+      "toughness": "3",
+      "type": "Creature — Human Artificer",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Anastasia Ovchinnikova",
+      "cmc": 5,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "c2ff474d29266b3b83dd1c5e2d9142e89598f30c",
+      "imageName": "rite of undoing",
+      "layout": "normal",
+      "manaCost": "{4}{U}",
+      "multiverseid": 391907,
+      "name": "Rite of Undoing",
+      "number": "49",
+      "rarity": "Uncommon",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nReturn target nonland permanent you control and target nonland permanent you don't control to their owners' hands.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Dan Scott",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "5061e6a954963844d8650c8ab6fd816fc17df6e4",
+      "imageName": "sage-eye avengers",
+      "layout": "normal",
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 391911,
+      "name": "Sage-Eye Avengers",
+      "number": "50",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Djinn",
+        "Monk"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.",
+      "toughness": "5",
+      "type": "Creature — Djinn Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "James Ryman",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Show the enemy the true path, and the spirit will yearn to follow it.\"\n—Houn, Jeskai elder",
+      "id": "a9891bd1a9ae77278b762dc4c900e7f89d0e0d81",
+      "imageName": "shifting loyalties",
+      "layout": "normal",
+      "manaCost": "{5}{U}",
+      "multiverseid": 391919,
+      "name": "Shifting Loyalties",
+      "number": "51",
+      "rarity": "Uncommon",
+      "text": "Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 3,
+      "colorIdentity": [
+        "U",
+        "R",
+        "W"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "cc7771a82d5d405c030a19d61205cabcc36bbc3a",
+      "imageName": "shu yun, the silent tempest",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391921,
+      "name": "Shu Yun, the Silent Tempest",
+      "number": "52",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.",
+      "toughness": "2",
+      "type": "Legendary Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Ryan Barger",
+      "cmc": 2,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "A skullkeeper is the first to arrive after the palace archers strike down intruders, probing their brains for choice bits of knowledge.",
+      "id": "fced3eb8636551e219858e3173d7435ad2b9935d",
+      "imageName": "sultai skullkeeper",
+      "layout": "normal",
+      "manaCost": "{1}{U}",
+      "multiverseid": 391932,
+      "name": "Sultai Skullkeeper",
+      "number": "53",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Naga",
+        "Shaman"
+      ],
+      "text": "When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard.",
+      "toughness": "1",
+      "type": "Creature — Naga Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Adam Paquette",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "\"Ice can be shaped to any form, even the whisper of a memory.\"\n—Mytha, Temur shaman",
+      "id": "a4bb47ea5739f925da48394534209e93667c369d",
+      "imageName": "supplant form",
+      "layout": "normal",
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 391933,
+      "name": "Supplant Form",
+      "number": "54",
+      "rarity": "Rare",
+      "text": "Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 11,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "Few truly live in the moment.",
+      "id": "6b4a1bdd43c148e11d8d476e259fc81869abc112",
+      "imageName": "temporal trespass",
+      "layout": "normal",
+      "manaCost": "{8}{U}{U}{U}",
+      "multiverseid": 391939,
+      "name": "Temporal Trespass",
+      "number": "55",
+      "rarity": "Mythic Rare",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "James Paick",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "af32ef0c8c2b6b67f3cbd2f8b31174c58fee5df4",
+      "imageName": "torrent elemental",
+      "layout": "normal",
+      "manaCost": "{4}{U}",
+      "multiverseid": 391945,
+      "name": "Torrent Elemental",
+      "number": "56",
+      "power": "3",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "Flying\nWhenever Torrent Elemental attacks, tap all creatures defending player controls.\n{3}{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.",
+      "toughness": "5",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Zack Stella",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "The maneuvers of the Abzan formation intrigued Ojutai in both their complexity and their futility.",
+      "id": "211f4dd17ccafac20362c2d2a8677fb64b348f82",
+      "imageName": "whisk away",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391956,
+      "name": "Whisk Away",
+      "number": "57",
+      "rarity": "Common",
+      "text": "Put target attacking or blocking creature on top of its owner's library.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 6,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "flavor": "The charm of a naga is undeniable.",
+      "id": "5a3008f532a3fec494630729251e47fc9054f027",
+      "imageName": "will of the naga",
+      "layout": "normal",
+      "manaCost": "{4}{U}{U}",
+      "multiverseid": 391961,
+      "name": "Will of the Naga",
+      "number": "58",
+      "rarity": "Common",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Yeong-Hao Han",
+      "cmc": 3,
+      "colorIdentity": [
+        "U"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "id": "4b76fc8f8eb368b44152f5c6800b50a5bac8cbf6",
+      "imageName": "write into being",
+      "layout": "normal",
+      "manaCost": "{2}{U}",
+      "multiverseid": 391964,
+      "name": "Write into Being",
+      "number": "59",
+      "rarity": "Common",
+      "text": "Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Torstein Nordstrand",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Boundaries drawn on maps or marked with stone have no meaning for the Mardu.",
+      "id": "78a68b65204e8ca2164379f866a10a327fab7016",
+      "imageName": "alesha's vanguard",
+      "layout": "normal",
+      "manaCost": "{3}{B}",
+      "multiverseid": 391788,
+      "name": "Alesha's Vanguard",
+      "number": "60",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "text": "Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "3",
+      "type": "Creature — Orc Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Yohann Schepacz",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The defenses of the Abzan extend well beyond the walls of their fortresses.",
+      "id": "930f0abc48365cc12b2730aded773d53ebfa9c06",
+      "imageName": "ancestral vengeance",
+      "layout": "normal",
+      "manaCost": "{B}{B}",
+      "multiverseid": 391790,
+      "name": "Ancestral Vengeance",
+      "number": "61",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.\nEnchanted creature gets -1/-1.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Why would I kill you all? Who then would be left to worship me?\"",
+      "id": "9a968869d5fde516863322b0141c1f903fdc89b9",
+      "imageName": "archfiend of depravity",
+      "layout": "normal",
+      "manaCost": "{3}{B}{B}",
+      "multiverseid": 391795,
+      "name": "Archfiend of Depravity",
+      "number": "62",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.",
+      "toughness": "4",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Every time he returns from battle unscathed, he feels a tinge of disappointment.",
+      "id": "c1eaac29365c2a3bb09e687a7617e1b473727449",
+      "imageName": "battle brawler",
+      "layout": "normal",
+      "manaCost": "{1}{B}",
+      "multiverseid": 391800,
+      "name": "Battle Brawler",
+      "number": "63",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "text": "As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.",
+      "toughness": "2",
+      "type": "Creature — Orc Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Tyler Jacobson",
+      "cmc": 4,
+      "colorIdentity": [
+        "B",
+        "R",
+        "W"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "5b093a086c229a22d2864ffce95f9986938fc531",
+      "imageName": "brutal hordechief",
+      "layout": "normal",
+      "manaCost": "{3}{B}",
+      "multiverseid": 391806,
+      "name": "Brutal Hordechief",
+      "number": "64",
+      "power": "3",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "text": "Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.\n{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.",
+      "toughness": "3",
+      "type": "Creature — Orc Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Michael Komarck",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Ugin's whispered summons led Sarkhan Vol to the moment that would echo down the centuries and seal Tarkir's fate: the primal battle between Ugin and Nicol Bolas.",
+      "id": "043d5d3b5983925d0bb05a2d65cb4f5364a55d5e",
+      "imageName": "crux of fate",
+      "layout": "normal",
+      "manaCost": "{3}{B}{B}",
+      "multiverseid": 391813,
+      "name": "Crux of Fate",
+      "number": "65",
+      "rarity": "Rare",
+      "text": "Choose one —\n• Destroy all Dragon creatures.\n• Destroy all non-Dragon creatures.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Scott Murphy",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The first khans of the Sultai relied on the magic of the rakshasa to ensure the survival of the clan.",
+      "id": "af5af58d7f2d9ad0951ba87b2e87bf86b4da89e3",
+      "imageName": "dark deal",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391816,
+      "name": "Dark Deal",
+      "number": "66",
+      "rarity": "Uncommon",
+      "text": "Each player discards all the cards in his or her hand, then draws that many cards minus one.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Our emissaries are gifted negotiators.\"\n—Alesha, Who Smiles at Death",
+      "id": "84aa619b7f04b87b5054c3068c4a07c01f38594e",
+      "imageName": "diplomacy of the wastes",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391819,
+      "name": "Diplomacy of the Wastes",
+      "number": "67",
+      "rarity": "Uncommon",
+      "text": "Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Ryan Yee",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The Mardu warrior was overjoyed when Tasigur set him free and granted him passage through the jungle. He failed to notice the Sultai leader's cruel smile.",
+      "id": "539b743a21995b75755c01008329b2c4f5cdfaef",
+      "imageName": "douse in gloom",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391821,
+      "name": "Douse in Gloom",
+      "number": "68",
+      "rarity": "Common",
+      "text": "Douse in Gloom deals 2 damage to target creature and you gain 2 life.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Véronique Meignaud",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "On Tarkir, dragons emerge from enormous tempests, phenomena tied to Ugin's very presence on the plane.",
+      "id": "9ee493cc483fe351cb4ac792ffab39e4f26b3913",
+      "imageName": "fearsome awakening",
+      "layout": "normal",
+      "manaCost": "{4}{B}",
+      "multiverseid": 391830,
+      "name": "Fearsome Awakening",
+      "number": "69",
+      "rarity": "Uncommon",
+      "text": "Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "YW Tang",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "3490b7f8598f574e04eef8c6b006805d1c1eaf31",
+      "imageName": "ghastly conscription",
+      "layout": "normal",
+      "manaCost": "{5}{B}{B}",
+      "multiverseid": 391843,
+      "name": "Ghastly Conscription",
+      "number": "70",
+      "rarity": "Mythic Rare",
+      "text": "Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Jeff Simpson",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "So long as death follows life, the supply lines of the Sultai will never be cut.",
+      "id": "a1dfe077b0acd2d756f1b9337bb299ebf4f7be46",
+      "imageName": "grave strength",
+      "layout": "normal",
+      "manaCost": "{1}{B}",
+      "multiverseid": 391847,
+      "name": "Grave Strength",
+      "number": "71",
+      "rarity": "Uncommon",
+      "text": "Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "YW Tang",
+      "cmc": 7,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "If everything in the Gurmag Swamp hungers for human flesh, what bait could be more effective?",
+      "id": "282663db717cc9415e07bfb6dafb8f7ae5f7db61",
+      "imageName": "gurmag angler",
+      "layout": "normal",
+      "manaCost": "{6}{B}",
+      "multiverseid": 391850,
+      "name": "Gurmag Angler",
+      "number": "72",
+      "power": "5",
+      "rarity": "Common",
+      "subtypes": [
+        "Zombie",
+        "Fish"
+      ],
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)",
+      "toughness": "5",
+      "type": "Creature — Zombie Fish",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "e4008a046b50bcec2549386aeecca8c104833b39",
+      "imageName": "hooded assassin",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391855,
+      "name": "Hooded Assassin",
+      "number": "73",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Assassin"
+      ],
+      "text": "When Hooded Assassin enters the battlefield, choose one —\n• Put a +1/+1 counter on Hooded Assassin.\n• Destroy target creature that was dealt damage this turn.",
+      "toughness": "2",
+      "type": "Creature — Human Assassin",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Mark Poole",
+      "cmc": 1,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "a88e3114eb07ab995bd4a252d856cc3b666d1e6d",
+      "imageName": "mardu shadowspear",
+      "layout": "normal",
+      "manaCost": "{B}",
+      "multiverseid": 391875,
+      "name": "Mardu Shadowspear",
+      "number": "74",
+      "power": "1",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "1",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Jason Rainville",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "dc7028210b47e5e9bb458d490c0ed521cb362a38",
+      "imageName": "mardu strike leader",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391876,
+      "name": "Mardu Strike Leader",
+      "number": "75",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "2",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "David Palumbo",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "He enjoys his work, for he sees only the worst Abzan criminals: those who betray their own kin.",
+      "id": "d5f76522c5ab0494f04f648a282f903bc9673935",
+      "imageName": "merciless executioner",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391879,
+      "name": "Merciless Executioner",
+      "number": "76",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "text": "When Merciless Executioner enters the battlefield, each player sacrifices a creature.",
+      "toughness": "1",
+      "type": "Creature — Orc Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Svetlin Velinov",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "Dragons of Silumgar's brood begin to digest their prey even before consuming it, letting their caustic breath do much of the work.",
+      "id": "12c4f074024680e3fdb531d415c8b718fd2ddc78",
+      "imageName": "noxious dragon",
+      "layout": "normal",
+      "manaCost": "{4}{B}{B}",
+      "multiverseid": 391888,
+      "name": "Noxious Dragon",
+      "number": "77",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhen Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.",
+      "toughness": "4",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Silumgar"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 4,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Words have yet to halt an arrow.\"",
+      "id": "e1bdbd695113b81cb4339773a69cc67a9def77d6",
+      "imageName": "orc sureshot",
+      "layout": "normal",
+      "manaCost": "{3}{B}",
+      "multiverseid": 391890,
+      "name": "Orc Sureshot",
+      "number": "78",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Orc",
+        "Archer"
+      ],
+      "text": "Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.",
+      "toughness": "2",
+      "type": "Creature — Orc Archer",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "8071ad24a422440ba389915ce725782540c0e523",
+      "imageName": "palace siege",
+      "layout": "normal",
+      "manaCost": "{3}{B}{B}",
+      "multiverseid": 391892,
+      "name": "Palace Siege",
+      "number": "79",
+      "rarity": "Rare",
+      "text": "As Palace Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand.\n• Dragons — At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Viktor Titov",
+      "cmc": 1,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Hear me, nameless, and obey.\"",
+      "id": "c0ce388161db8cb9ee5d6a40b6e2f486ad282102",
+      "imageName": "qarsi high priest",
+      "layout": "normal",
+      "manaCost": "{B}",
+      "multiverseid": 391898,
+      "name": "Qarsi High Priest",
+      "number": "80",
+      "power": "0",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "text": "{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "toughness": "2",
+      "type": "Creature — Human Cleric",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"Is it better to be a fool or a coward? Fools may get things done occasionally, but cowards live longer.\"\n—Ghelesh Shadowmane, rakshasa mage",
+      "id": "69c6ec0563c67efdaab79868a602a77df905d846",
+      "imageName": "reach of shadows",
+      "layout": "normal",
+      "manaCost": "{4}{B}",
+      "multiverseid": 391902,
+      "name": "Reach of Shadows",
+      "number": "81",
+      "rarity": "Common",
+      "text": "Destroy target creature that's one or more colors.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 5,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "\"They were your friends, your family, your clan. They want only to welcome you.\"\n—Tasigur, the Golden Fang",
+      "id": "5ecde8a7709a9e1ac12e5eb10fffc0d1a0b82745",
+      "imageName": "sibsig host",
+      "layout": "normal",
+      "manaCost": "{4}{B}",
+      "multiverseid": 391922,
+      "name": "Sibsig Host",
+      "number": "82",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.",
+      "toughness": "6",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Zack Stella",
+      "cmc": 9,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "484217f78a115b9613929e133d0b9aa6308bc870",
+      "imageName": "sibsig muckdraggers",
+      "layout": "normal",
+      "manaCost": "{8}{B}",
+      "multiverseid": 391923,
+      "name": "Sibsig Muckdraggers",
+      "number": "83",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Zombie"
+      ],
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nWhen Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand.",
+      "toughness": "6",
+      "type": "Creature — Zombie",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Seb McKinnon",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "4ed1d7a565ed764fd90a477dc0f1fc28954745c6",
+      "imageName": "soulflayer",
+      "layout": "normal",
+      "manaCost": "{4}{B}{B}",
+      "multiverseid": 391928,
+      "name": "Soulflayer",
+      "number": "84",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Demon"
+      ],
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nIf a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.",
+      "toughness": "4",
+      "type": "Creature — Demon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Mathias Kollros",
+      "cmc": 2,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "To the Sultai, Ugin's power was just one more resource to be exploited.",
+      "id": "ef566ace53de05808c77c1ee00b67935d8aac4b1",
+      "imageName": "sultai emissary",
+      "layout": "normal",
+      "manaCost": "{1}{B}",
+      "multiverseid": 391930,
+      "name": "Sultai Emissary",
+      "number": "85",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Zombie",
+        "Warrior"
+      ],
+      "text": "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "toughness": "1",
+      "type": "Creature — Zombie Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Volkan Baga",
+      "cmc": 3,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "4f2ce6b2e3a962dc1f6324d932e43e39af9639db",
+      "imageName": "sultai runemark",
+      "layout": "normal",
+      "manaCost": "{2}{B}",
+      "multiverseid": 391931,
+      "name": "Sultai Runemark",
+      "number": "86",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 6,
+      "colorIdentity": [
+        "B",
+        "G",
+        "U"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "id": "1b776ef20dc8c41b99f7af25db7546a643d44d8d",
+      "imageName": "tasigur, the golden fang",
+      "layout": "normal",
+      "manaCost": "{5}{B}",
+      "multiverseid": 391937,
+      "name": "Tasigur, the Golden Fang",
+      "number": "87",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\n{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.",
+      "toughness": "5",
+      "type": "Legendary Creature — Human Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Chris Rahn",
+      "cmc": 6,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "The cruelest tortures leave no mark upon the flesh.",
+      "id": "b0e21a758a42e2c3af88ef7b1db64d085d78ff74",
+      "imageName": "tasigur's cruelty",
+      "layout": "normal",
+      "manaCost": "{5}{B}",
+      "multiverseid": 391938,
+      "name": "Tasigur's Cruelty",
+      "number": "88",
+      "rarity": "Common",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nEach opponent discards two cards.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Dave Kendall",
+      "cmc": 1,
+      "colorIdentity": [
+        "B"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "flavor": "When Tasigur sent his ambassadors to the Abzan outpost, the true envoys were not the naga but the infectious rats they carried with them.",
+      "id": "4e46be4a4e6acf96c2bf2721b2aa5b52ec810418",
+      "imageName": "typhoid rats",
+      "layout": "normal",
+      "manaCost": "{B}",
+      "multiverseid": 391947,
+      "name": "Typhoid Rats",
+      "number": "89",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Rat"
+      ],
+      "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+      "toughness": "1",
+      "type": "Creature — Rat",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Anastasia Ovchinnikova",
+      "cmc": 3,
+      "colorIdentity": [
+        "R",
+        "W",
+        "B"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Greet death with sword in hand.\"",
+      "id": "bf293335ecca2d17962ea31fab59f60f0e37f385",
+      "imageName": "alesha, who smiles at death",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391787,
+      "name": "Alesha, Who Smiles at Death",
+      "number": "90",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "First strike\nWhenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.",
+      "toughness": "2",
+      "type": "Legendary Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"If you must die today, make your death worthy of legend.\"\n—Alesha, Who Smiles at Death",
+      "id": "2983f6ae90336acc7743b7156ddfb83a6eaf8645",
+      "imageName": "arcbond",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391793,
+      "name": "Arcbond",
+      "number": "91",
+      "rarity": "Rare",
+      "text": "Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Chris Rallis",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The scent of cooked flesh lingers in the charred landscape of Tarkir.",
+      "id": "b05052373a9699e79840199b2197abaf5e4cb249",
+      "imageName": "bathe in dragonfire",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391799,
+      "name": "Bathe in Dragonfire",
+      "number": "92",
+      "rarity": "Common",
+      "text": "Bathe in Dragonfire deals 4 damage to target creature.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Yefim Kligerman",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Bloodfire practitioners train to focus their rage, building it deep inside themselves until they are ready to release it as a devastating attack.",
+      "id": "31a01972da53a0ab27c3f06357753fb386612e2e",
+      "imageName": "bloodfire enforcers",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391803,
+      "name": "Bloodfire Enforcers",
+      "number": "93",
+      "power": "5",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "text": "Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.",
+      "toughness": "2",
+      "type": "Creature — Human Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"If the Mardu were more in tune with their beasts, they would not scare so easily.\"\n—Jilaya, Temur whisperer",
+      "id": "ce588d02312b18bc617c746dd3a24565665f1836",
+      "imageName": "break through the line",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "multiverseid": 391805,
+      "name": "Break Through the Line",
+      "number": "94",
+      "rarity": "Uncommon",
+      "text": "{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Ryan Barger",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "It is much easier to create fire than to contain it.",
+      "id": "2efead28ecd0ca029ce3fac959b290fac5d4afdc",
+      "imageName": "collateral damage",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "multiverseid": 391811,
+      "name": "Collateral Damage",
+      "number": "95",
+      "rarity": "Common",
+      "text": "As an additional cost to cast Collateral Damage, sacrifice a creature.\nCollateral Damage deals 3 damage to target creature or player.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Craig J Spearing",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"I have no clan, but I still have purpose.\"",
+      "id": "9eb3da6e4dc7c41a6754731fbc4ca34cd9507101",
+      "imageName": "defiant ogre",
+      "layout": "normal",
+      "manaCost": "{5}{R}",
+      "multiverseid": 391817,
+      "name": "Defiant Ogre",
+      "number": "96",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Ogre",
+        "Warrior"
+      ],
+      "text": "When Defiant Ogre enters the battlefield, choose one —\n• Put a +1/+1 counter on Defiant Ogre.\n• Destroy target artifact.",
+      "toughness": "5",
+      "type": "Creature — Ogre Warrior",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Tomasz Jedruszek",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Dragons in the skies of Tarkir—for the first time, it feels like my home.\"\n—Sarkhan Vol",
+      "id": "140829558214125f8642b3a832a5dbaac538089f",
+      "imageName": "dragonrage",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391823,
+      "name": "Dragonrage",
+      "number": "97",
+      "rarity": "Uncommon",
+      "text": "Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain \"{R}: This creature gets +1/+0 until end of turn.\"",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Tyler Jacobson",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Anger can empower those who embrace it.",
+      "id": "66254146aedf08fbdb22fac8a481ff78fe8af6fd",
+      "imageName": "fierce invocation",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "multiverseid": 391832,
+      "name": "Fierce Invocation",
+      "number": "98",
+      "rarity": "Common",
+      "text": "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "e20e4e2fc50820fe6b920520fbc179b219e2b923",
+      "imageName": "flamerush rider",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "multiverseid": 391833,
+      "name": "Flamerush Rider",
+      "number": "99",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "3",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Min Yum",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "803fa9cddc8145233fdbf6857707b9fe5d144e95",
+      "imageName": "flamewake phoenix",
+      "layout": "normal",
+      "manaCost": "{1}{R}{R}",
+      "multiverseid": 391834,
+      "name": "Flamewake Phoenix",
+      "number": "100",
+      "power": "2",
+      "rarity": "Rare",
+      "subtypes": [
+        "Phoenix"
+      ],
+      "text": "Flying, haste\nFlamewake Phoenix attacks each turn if able.\nFerocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.",
+      "toughness": "2",
+      "type": "Creature — Phoenix",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Anthony Palumbo",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Never tell goblins to ‘fire at will.'\"\n—Urut Barzeel, Mardu hordechief",
+      "id": "6ee031b57c42a1fef27f1120a8cc18ecd03d2147",
+      "imageName": "friendly fire",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391838,
+      "name": "Friendly Fire",
+      "number": "101",
+      "rarity": "Uncommon",
+      "text": "Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jesper Ejsing",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "6338a5212aa96fb6c049b79f85dbdbb1c44fa1ef",
+      "imageName": "goblin heelcutter",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391845,
+      "name": "Goblin Heelcutter",
+      "number": "102",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Berserker"
+      ],
+      "text": "Whenever Goblin Heelcutter attacks, target creature can't block this turn.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "2",
+      "type": "Creature — Goblin Berserker",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"The Mardu are like the gore swine. We are wild, hunt in packs, and rarely clean the blood from our blades.\"\n—Vallash, Mardu warrior",
+      "id": "023b19ffd39c583aff6ba2c5c9cf60c456efcb3e",
+      "imageName": "gore swine",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391846,
+      "name": "Gore Swine",
+      "number": "103",
+      "power": "4",
+      "rarity": "Common",
+      "subtypes": [
+        "Boar"
+      ],
+      "toughness": "1",
+      "type": "Creature — Boar",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"You were once Mardu, so your body and will are strong. Now we must train your mind.\"\n—Houn, Jeskai elder",
+      "id": "ea2d5af29385b25e286acc2a9aa1babd5a1e1b8e",
+      "imageName": "humble defector",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "multiverseid": 391856,
+      "name": "Humble Defector",
+      "number": "104",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Rogue"
+      ],
+      "text": "{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.",
+      "toughness": "1",
+      "type": "Creature — Human Rogue",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Tyler Jacobson",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "No clan is as adept at saying \"go away\" as the Temur.",
+      "id": "c78ec9766e7402b4b30afd2323980ca680a0ba69",
+      "imageName": "hungering yeti",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "multiverseid": 391857,
+      "name": "Hungering Yeti",
+      "number": "105",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Yeti"
+      ],
+      "text": "As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)",
+      "toughness": "4",
+      "type": "Creature — Yeti",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Slawomir Maniak",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Dragonslayers learned to keep silent about their deeds after seeing the terrible vengeance wrought by Kolaghan and her brood.",
+      "id": "8fcf4211697a14b489ca26dc86174a729f746fe2",
+      "imageName": "lightning shrieker",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "multiverseid": 391868,
+      "name": "Lightning Shrieker",
+      "number": "106",
+      "power": "5",
+      "rarity": "Common",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying, trample, haste\nAt the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.",
+      "toughness": "5",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Kolaghan"
+    },
+    {
+      "artist": "Viktor Titov",
+      "cmc": 3,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "f838b55c00a5006a5cd2c5787dfc0476048fcb59",
+      "imageName": "mardu runemark",
+      "layout": "normal",
+      "manaCost": "{2}{R}",
+      "multiverseid": 391873,
+      "name": "Mardu Runemark",
+      "number": "107",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has first strike as long as you control a white or black permanent.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Zoltan Boros",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The Mardu all enjoy war, but only the goblins make a game of it.",
+      "id": "a9c81df2f202c36ab65b387dbd631f4de70b13fa",
+      "imageName": "mardu scout",
+      "layout": "normal",
+      "manaCost": "{R}{R}",
+      "multiverseid": 391874,
+      "name": "Mardu Scout",
+      "number": "108",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Goblin",
+        "Scout"
+      ],
+      "text": "Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "1",
+      "type": "Creature — Goblin Scout",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Jakub Kasper",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "8fb26642e4c997b55f86f677c639c560a1fedf15",
+      "imageName": "mob rule",
+      "layout": "normal",
+      "manaCost": "{4}{R}{R}",
+      "multiverseid": 391882,
+      "name": "Mob Rule",
+      "number": "109",
+      "rarity": "Rare",
+      "text": "Choose one —\n• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.\n• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Daarken",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "9c1b6a6a5d76caa80846419b52ce77b9c749bf0f",
+      "imageName": "outpost siege",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391891,
+      "name": "Outpost Siege",
+      "number": "110",
+      "rarity": "Rare",
+      "text": "As Outpost Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.\n• Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Matt Stewart",
+      "cmc": 5,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "\"Take inspiration from your enemies, and make their strengths your own.\"\n—Alesha, Who Smiles at Death",
+      "id": "97adf8f5ecb2438e83b9c668c0210820375806fe",
+      "imageName": "pyrotechnics",
+      "layout": "normal",
+      "manaCost": "{4}{R}",
+      "multiverseid": 391897,
+      "name": "Pyrotechnics",
+      "number": "111",
+      "rarity": "Uncommon",
+      "text": "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Richard Wright",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "2e7a84f0971c49ceb77cb4a342c780f4fd22f520",
+      "imageName": "rageform",
+      "layout": "normal",
+      "manaCost": "{2}{R}{R}",
+      "multiverseid": 391899,
+      "name": "Rageform",
+      "number": "112",
+      "rarity": "Uncommon",
+      "text": "When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Ryan Alexander Lee",
+      "cmc": 4,
+      "colorIdentity": [
+        "R",
+        "G",
+        "U"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "a5faaa4d9a6afad8f743c36940332021d2998404",
+      "imageName": "shaman of the great hunt",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391917,
+      "name": "Shaman of the Great Hunt",
+      "number": "113",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Orc",
+        "Shaman"
+      ],
+      "text": "Haste\nWhenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.\nFerocious — {2}{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater.",
+      "toughness": "2",
+      "type": "Creature — Orc Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Alejandro Mirabal",
+      "cmc": 6,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Dragons of the Kolaghan brood are always on the move. They are the driving force behind the Mardu's nomadic way of life.",
+      "id": "4e11df3fa4df2c57ae884e506ac90153efe01229",
+      "imageName": "shockmaw dragon",
+      "layout": "normal",
+      "manaCost": "{4}{R}{R}",
+      "multiverseid": 391920,
+      "name": "Shockmaw Dragon",
+      "number": "114",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.",
+      "toughness": "4",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Kolaghan"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "The efreet are drawn to the Kaisham Wanderers, a loosely organized Jeskai school where trickery is employed to challenge the status quo and upend the belief systems of others.",
+      "id": "0677a3d96ce451edfe76b1b279c88489b0695ce1",
+      "imageName": "smoldering efreet",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "multiverseid": 391925,
+      "name": "Smoldering Efreet",
+      "number": "115",
+      "power": "2",
+      "rarity": "Common",
+      "subtypes": [
+        "Efreet",
+        "Monk"
+      ],
+      "text": "When Smoldering Efreet dies, it deals 2 damage to you.",
+      "toughness": "2",
+      "type": "Creature — Efreet Monk",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Jeskai"
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 2,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "ae97eba4da29c51cbccb07b6067d5b711a73a8dc",
+      "imageName": "temur battle rage",
+      "layout": "normal",
+      "manaCost": "{1}{R}",
+      "multiverseid": 391940,
+      "name": "Temur Battle Rage",
+      "number": "116",
+      "rarity": "Common",
+      "text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)\nFerocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Wayne Reynolds",
+      "cmc": 4,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "id": "86fb428ac9ad3e540f3c0e070f052b3a8a2e2309",
+      "imageName": "vaultbreaker",
+      "layout": "normal",
+      "manaCost": "{3}{R}",
+      "multiverseid": 391951,
+      "name": "Vaultbreaker",
+      "number": "117",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Orc",
+        "Rogue"
+      ],
+      "text": "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "2",
+      "type": "Creature — Orc Rogue",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Mardu"
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 1,
+      "colorIdentity": [
+        "R"
+      ],
+      "colors": [
+        "Red"
+      ],
+      "flavor": "Never mistake deception for cleverness.",
+      "id": "feabd9cbcc199a22109e912f57980ac29c817334",
+      "imageName": "wild slash",
+      "layout": "normal",
+      "manaCost": "{R}",
+      "multiverseid": 391959,
+      "name": "Wild Slash",
+      "number": "118",
+      "rarity": "Uncommon",
+      "text": "Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn.\nWild Slash deals 2 damage to target creature or player.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "His beasts move the great siege towers of the Abzan across the endless sands.",
+      "id": "02044ea76a289a3d280fbcb4ccfeda62c8fd9865",
+      "imageName": "abzan beastmaster",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391782,
+      "name": "Abzan Beastmaster",
+      "number": "119",
+      "power": "2",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Hound",
+        "Shaman"
+      ],
+      "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+      "toughness": "1",
+      "type": "Creature — Hound Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Craig J Spearing",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"The Mardu rush headlong toward extinction. We ensure the longevity of our clan by protecting our territory, not rampaging through it.\"",
+      "id": "82ad90645599539b0fa042204bc1fb293debc123",
+      "imageName": "abzan kin-guard",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391783,
+      "name": "Abzan Kin-Guard",
+      "number": "120",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "text": "Abzan Kin-Guard has lifelink as long as you control a white or black permanent.",
+      "toughness": "3",
+      "type": "Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Lucas Graciano",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "3a01d7267dd74bf725567b18ba84876c4003185b",
+      "imageName": "ainok guide",
+      "layout": "normal",
+      "manaCost": "{1}{G}",
+      "multiverseid": 391786,
+      "name": "Ainok Guide",
+      "number": "121",
+      "power": "1",
+      "rarity": "Common",
+      "subtypes": [
+        "Hound",
+        "Scout"
+      ],
+      "text": "When Ainok Guide enters the battlefield, choose one —\n• Put a +1/+1 counter on Ainok Guide.\n• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",
+      "toughness": "1",
+      "type": "Creature — Hound Scout",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Filip Burburan",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "The Abzan merchants soon discovered why this route was clear of dragons.",
+      "id": "79d90310aeb21e7b4e8caa70847d91e783afb7cf",
+      "imageName": "ambush krotiq",
+      "layout": "normal",
+      "manaCost": "{5}{G}",
+      "multiverseid": 391789,
+      "name": "Ambush Krotiq",
+      "number": "122",
+      "power": "5",
+      "rarity": "Common",
+      "subtypes": [
+        "Insect"
+      ],
+      "text": "Trample\nWhen Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.",
+      "toughness": "5",
+      "type": "Creature — Insect",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 7,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "180fc8352f005ef7dcadfec0e349c369d18e6939",
+      "imageName": "arashin war beast",
+      "layout": "normal",
+      "manaCost": "{5}{G}{G}",
+      "multiverseid": 391792,
+      "name": "Arashin War Beast",
+      "number": "123",
+      "power": "6",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "toughness": "6",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Alejandro Mirabal",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"We think of the naga as creeping cutthroats, slitherers in the swamps. But they are equally at home in the trees.\"\n—Goton, Qal Sisma shaman",
+      "id": "a5b57f312d6ca36a42023d1c9f75fe036a01f96f",
+      "imageName": "archers of qarsi",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391794,
+      "name": "Archers of Qarsi",
+      "number": "124",
+      "power": "5",
+      "rarity": "Common",
+      "subtypes": [
+        "Naga",
+        "Archer"
+      ],
+      "text": "Defender\nReach (This creature can block creatures with flying.)",
+      "toughness": "2",
+      "type": "Creature — Naga Archer",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Sultai"
+    },
+    {
+      "artist": "Steve Prescott",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Krushoks clear debris from fertile fields, fallow fields, and battlefields.",
+      "id": "06d436d91118d8f3303fa29eccb9b9355a706d86",
+      "imageName": "battlefront krushok",
+      "layout": "normal",
+      "manaCost": "{4}{G}",
+      "multiverseid": 391801,
+      "name": "Battlefront Krushok",
+      "number": "125",
+      "power": "3",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Beast"
+      ],
+      "text": "Battlefront Krushok can't be blocked by more than one creature.\nEach creature you control with a +1/+1 counter on it can't be blocked by more than one creature.",
+      "toughness": "4",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Zack Stella",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "The glittering scales in the Abzan vaults represent mighty deeds of the past and protection for generations to come.",
+      "id": "31bb9a2d396c1336d4e3bf401d214c9662cbdcca",
+      "imageName": "cached defenses",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391807,
+      "name": "Cached Defenses",
+      "number": "126",
+      "rarity": "Uncommon",
+      "text": "Bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Peter Mohrbacher",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "After countless attacks on the Salt Road where it passes through the frozen tundra, the Abzan began to refer to the area as Atarka territory rather than Temur lands.",
+      "id": "cad9587107c9abb36e64b7ca051325e0664b6f3d",
+      "imageName": "destructor dragon",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "multiverseid": 391818,
+      "name": "Destructor Dragon",
+      "number": "127",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Dragon"
+      ],
+      "text": "Flying\nWhen Destructor Dragon dies, destroy target noncreature permanent.",
+      "toughness": "4",
+      "type": "Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Atarka"
+    },
+    {
+      "artist": "Kev Walker",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "In a stunning act of diplomacy, Yasova Dragonclaw ceded a portion of Temur lands to the Sultai. Her clan protested until they saw she had given the Sultai the breeding grounds of the krushoks. They hadn't realized she had a sense of humor.",
+      "id": "63ef6745477cdec2687f7d8470b7392063e1f41a",
+      "imageName": "feral krushok",
+      "layout": "normal",
+      "manaCost": "{4}{G}",
+      "multiverseid": 391831,
+      "name": "Feral Krushok",
+      "number": "128",
+      "power": "5",
+      "rarity": "Common",
+      "subtypes": [
+        "Beast"
+      ],
+      "toughness": "4",
+      "type": "Creature — Beast",
+      "types": [
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Cliff Childs",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "fbb51a5dadc04e47e218d60e40c40410b724a9c2",
+      "imageName": "formless nurturing",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391837,
+      "name": "Formless Nurturing",
+      "number": "129",
+      "rarity": "Common",
+      "text": "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Each bronze disk on its harness is an offering from a young Temur hunter, a sign of respect to the spirits of the wild.",
+      "id": "aa8101b4cf78b53551e683774921130222be0b6a",
+      "imageName": "frontier mastodon",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391839,
+      "name": "Frontier Mastodon",
+      "number": "130",
+      "power": "3",
+      "rarity": "Common",
+      "subtypes": [
+        "Elephant"
+      ],
+      "text": "Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.",
+      "toughness": "2",
+      "type": "Creature — Elephant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "James Ryman",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "10423b57e843a68752330bfca297ed7439004ead",
+      "imageName": "frontier siege",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391840,
+      "name": "Frontier Siege",
+      "number": "131",
+      "rarity": "Rare",
+      "text": "As Frontier Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of each of your main phases, add {G}{G} to your mana pool.\n• Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.",
+      "type": "Enchantment",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Ryan Yee",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"I will be the ancestor my descendants call upon for aid. On that day I will take up my sword for my family once more.\"",
+      "id": "8aa0037882a66d6beb61f436cf818f648c5a4e78",
+      "imageName": "fruit of the first tree",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391842,
+      "name": "Fruit of the First Tree",
+      "number": "132",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nWhen enchanted creature dies, you gain X life and draw X cards, where X is its toughness.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ]
+    },
+    {
+      "artist": "Lars Grant-West",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "Dragons scorn the weak, even among their own kind.",
+      "id": "dbeca5075f89f02aed78d11b943c0b76b78d50eb",
+      "imageName": "hunt the weak",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391858,
+      "name": "Hunt the Weak",
+      "number": "133",
+      "rarity": "Common",
+      "text": "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Volkan Baga",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "2b28f5fa33cab8ae9f08892f342e3253f8b85c46",
+      "imageName": "map the wastes",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391871,
+      "name": "Map the Wastes",
+      "number": "134",
+      "rarity": "Common",
+      "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Mark Winters",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"Dragons are feared for their breath and their bite, but it is their wings that make them unconquerable. Bring them to earth, and they die like any other beast.\"\n—Kassur, Sultai hunter",
+      "id": "43a8065dedd3d31d819aef8ac3b391733ade246a",
+      "imageName": "return to the earth",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391906,
+      "name": "Return to the Earth",
+      "number": "135",
+      "rarity": "Common",
+      "text": "Destroy target artifact, enchantment, or creature with flying.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "A single battle affects countless others.",
+      "id": "040d3ae55314a63cd48ea14d810c5c6d321ea1f5",
+      "imageName": "ruthless instincts",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391909,
+      "name": "Ruthless Instincts",
+      "number": "136",
+      "rarity": "Uncommon",
+      "text": "Choose one —\n• Target nonattacking creature gains reach and deathtouch until end of turn. Untap it.\n• Target attacking creature gets +2/+2 and gains trample until end of turn.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "James Zapata",
+      "cmc": 7,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "A mastodon's path always leads to an oasis.",
+      "id": "ba375e320026881e4bd273f905efdd026760bcdd",
+      "imageName": "sandsteppe mastodon",
+      "layout": "normal",
+      "manaCost": "{5}{G}{G}",
+      "multiverseid": 391913,
+      "name": "Sandsteppe Mastodon",
+      "number": "137",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Elephant"
+      ],
+      "text": "Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)",
+      "toughness": "5",
+      "type": "Creature — Elephant",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "Cynthia Sheppard",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "First, whispers of ancient days. Then, visions of things to come.",
+      "id": "ed9b84fc8d25c6ea515f615253ab771726301111",
+      "imageName": "shamanic revelation",
+      "layout": "normal",
+      "manaCost": "{3}{G}{G}",
+      "multiverseid": 391918,
+      "name": "Shamanic Revelation",
+      "number": "138",
+      "rarity": "Rare",
+      "text": "Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater.",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Jack Wang",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "\"There is no secret buried so deep that we will never find it.\"\n—Kurtar, Sultai necromancer",
+      "id": "7f192063ff8c4b41162f0fd18553d1e4eda72352",
+      "imageName": "sudden reclamation",
+      "layout": "normal",
+      "manaCost": "{3}{G}",
+      "multiverseid": 391929,
+      "name": "Sudden Reclamation",
+      "number": "139",
+      "rarity": "Uncommon",
+      "text": "Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Ryan Alexander Lee",
+      "cmc": 3,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "3dd4f61ae7743c0a1fd97f905649d43263809e46",
+      "imageName": "temur runemark",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391941,
+      "name": "Temur Runemark",
+      "number": "140",
+      "rarity": "Common",
+      "subtypes": [
+        "Aura"
+      ],
+      "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has trample as long as you control a blue or red permanent.",
+      "type": "Enchantment — Aura",
+      "types": [
+        "Enchantment"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Mike Sass",
+      "cmc": 4,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "The Temur see themselves as a pack, their bonds more primal than the Abzan's.",
+      "id": "48fee17a389ac4458c4223da1085dfd0ffcc3b64",
+      "imageName": "temur sabertooth",
+      "layout": "normal",
+      "manaCost": "{2}{G}{G}",
+      "multiverseid": 391942,
+      "name": "Temur Sabertooth",
+      "number": "141",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Cat"
+      ],
+      "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.",
+      "toughness": "3",
+      "type": "Creature — Cat",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Nils Hamm",
+      "cmc": 6,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "6006475d139221cf2ec2871ea61de9abfc37be50",
+      "imageName": "temur war shaman",
+      "layout": "normal",
+      "manaCost": "{4}{G}{G}",
+      "multiverseid": 391943,
+      "name": "Temur War Shaman",
+      "number": "142",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "text": "When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nWhenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.",
+      "toughness": "5",
+      "type": "Creature — Human Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Ryan Alexander Lee",
+      "cmc": 1,
+      "colorIdentity": [
+        "G",
+        "W",
+        "B"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "e150f81404a9ee8ff1d4fa479d472acb80a7c0c1",
+      "imageName": "warden of the first tree",
+      "layout": "normal",
+      "manaCost": "{G}",
+      "multiverseid": 391954,
+      "name": "Warden of the First Tree",
+      "number": "143",
+      "power": "1",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Human"
+      ],
+      "text": "{1}{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.\n{2}{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.\n{3}{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.",
+      "toughness": "1",
+      "type": "Creature — Human",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Abzan"
+    },
+    {
+      "artist": "David Gaillet",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "She speaks only in whispers but can be heard over the fiercest storm.",
+      "id": "ae11ceef2f7b451aee542d2a9e530ab786988298",
+      "imageName": "whisperer of the wilds",
+      "layout": "normal",
+      "manaCost": "{1}{G}",
+      "multiverseid": 391957,
+      "name": "Whisperer of the Wilds",
+      "number": "144",
+      "power": "0",
+      "rarity": "Common",
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "text": "{T}: Add {G} to your mana pool.\nFerocious — {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater.",
+      "toughness": "2",
+      "type": "Creature — Human Shaman",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Raymond Swanland",
+      "cmc": 5,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "06972df176a34c845f4d3df1f0057a5fd3da2a07",
+      "imageName": "whisperwood elemental",
+      "layout": "normal",
+      "manaCost": "{3}{G}{G}",
+      "multiverseid": 391958,
+      "name": "Whisperwood Elemental",
+      "number": "145",
+      "power": "4",
+      "rarity": "Mythic Rare",
+      "subtypes": [
+        "Elemental"
+      ],
+      "text": "At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nSacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain \"When this creature dies, manifest the top card of your library.\"",
+      "toughness": "4",
+      "type": "Creature — Elemental",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Adam Paquette",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "flavor": "A howl on the wind hides many dangers.",
+      "id": "f9be3cb1025d36d6c408fc0fb84e466db55331d9",
+      "imageName": "wildcall",
+      "layout": "normal",
+      "manaCost": "{X}{G}{G}",
+      "multiverseid": 391960,
+      "name": "Wildcall",
+      "number": "146",
+      "rarity": "Rare",
+      "text": "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Sorcery",
+      "types": [
+        "Sorcery"
+      ]
+    },
+    {
+      "artist": "Howard Lyon",
+      "cmc": 2,
+      "colorIdentity": [
+        "G"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "a85faed53dc51c31b792d3394d3dda23fb3d0f67",
+      "imageName": "winds of qal sisma",
+      "layout": "normal",
+      "manaCost": "{1}{G}",
+      "multiverseid": 391962,
+      "name": "Winds of Qal Sisma",
+      "number": "147",
+      "rarity": "Uncommon",
+      "text": "Prevent all combat damage that would be dealt this turn.\nFerocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Winona Nelson",
+      "cmc": 3,
+      "colorIdentity": [
+        "G",
+        "U",
+        "R"
+      ],
+      "colors": [
+        "Green"
+      ],
+      "id": "87cc927aa7a0db90521316dff6289848fcf00d5c",
+      "imageName": "yasova dragonclaw",
+      "layout": "normal",
+      "manaCost": "{2}{G}",
+      "multiverseid": 391965,
+      "name": "Yasova Dragonclaw",
+      "number": "148",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Trample\nAt the beginning of combat on your turn, you may pay {1}{U/R}{U/R}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.",
+      "toughness": "2",
+      "type": "Legendary Creature — Human Warrior",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Temur"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 7,
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "flavor": "\"Her hunger knows no limit. Left unchecked, she would feast on all of Tarkir.\"\n—Yasova Dragonclaw",
+      "id": "13ce0f00a90eb2454abb2493fa3768a16b3a3034",
+      "imageName": "atarka, world render",
+      "layout": "normal",
+      "manaCost": "{5}{R}{G}",
+      "multiverseid": 391796,
+      "name": "Atarka, World Render",
+      "number": "149",
+      "power": "6",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn.",
+      "toughness": "4",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Atarka"
+    },
+    {
+      "artist": "Clint Cearley",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "R"
+      ],
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "flavor": "\"The opponent who blocks the path, becomes the path.\"\n—Shu Yun, the Silent Tempest",
+      "id": "f49222d24d0814fdc2df487c00cb57d7e6673559",
+      "imageName": "cunning strike",
+      "layout": "normal",
+      "manaCost": "{3}{U}{R}",
+      "multiverseid": 391814,
+      "name": "Cunning Strike",
+      "number": "150",
+      "rarity": "Common",
+      "text": "Cunning Strike deals 2 damage to target creature and 2 damage to target player.\nDraw a card.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Eric Deschamps",
+      "cmc": 5,
+      "colorIdentity": [
+        "W",
+        "G"
+      ],
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "flavor": "\"The bane of countless shattered weapons, each a failure to slay her.\"\n—Daghatar the Adamant",
+      "id": "f3a4b59a298bc5d3440c2d34aef6d94ad4846aa1",
+      "imageName": "dromoka, the eternal",
+      "layout": "normal",
+      "manaCost": "{3}{G}{W}",
+      "multiverseid": 391825,
+      "name": "Dromoka, the Eternal",
+      "number": "151",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+      "toughness": "5",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Dromoka"
+    },
+    {
+      "artist": "Lius Lasahido",
+      "cmc": 5,
+      "colorIdentity": [
+        "U",
+        "G"
+      ],
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "flavor": "The energies of the Temur lands are readily unleashed upon intruders.",
+      "id": "63fcf7fd272806f1cdf24ac3203d2073ef842d3f",
+      "imageName": "ethereal ambush",
+      "layout": "normal",
+      "manaCost": "{3}{G}{U}",
+      "multiverseid": 391828,
+      "name": "Ethereal Ambush",
+      "number": "152",
+      "rarity": "Common",
+      "text": "Manifest the top two cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Phill Simmer",
+      "cmc": 3,
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "flavor": "The invader hoped he could survive the beast's jaws and emerge through its rotting skin.",
+      "id": "5bcf3c2e6bc45ab5ee206ca70ee810560485a094",
+      "imageName": "grim contest",
+      "layout": "normal",
+      "manaCost": "{1}{B}{G}",
+      "multiverseid": 391849,
+      "name": "Grim Contest",
+      "number": "153",
+      "rarity": "Common",
+      "text": "Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Cynthia Sheppard",
+      "cmc": 3,
+      "colorIdentity": [
+        "W",
+        "B"
+      ],
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "flavor": "The Shifting Wastes provide refuge to those who know where to look for it.",
+      "id": "4ee841625ccfda57e97fbe0097ad55db49bf505f",
+      "imageName": "harsh sustenance",
+      "layout": "normal",
+      "manaCost": "{1}{W}{B}",
+      "multiverseid": 391851,
+      "name": "Harsh Sustenance",
+      "number": "154",
+      "rarity": "Common",
+      "text": "Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Jaime Jones",
+      "cmc": 5,
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "id": "711e6d623dcb0d27faa207e54e7bfaebea5b2575",
+      "imageName": "kolaghan, the storm's fury",
+      "layout": "normal",
+      "manaCost": "{3}{B}{R}",
+      "multiverseid": 391866,
+      "name": "Kolaghan, the Storm's Fury",
+      "number": "155",
+      "power": "4",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying\nWhenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.\nDash {3}{B}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "toughness": "5",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Kolaghan"
+    },
+    {
+      "artist": "Chase Stone",
+      "cmc": 7,
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "flavor": "\"When I battled Ojutai, I realized my learning had only begun.\"\n—Shu Yun, the Silent Tempest",
+      "id": "963a0d446494a966a99d8835ebead198ee2ef9d6",
+      "imageName": "ojutai, soul of winter",
+      "layout": "normal",
+      "manaCost": "{5}{W}{U}",
+      "multiverseid": 391889,
+      "name": "Ojutai, Soul of Winter",
+      "number": "156",
+      "power": "5",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, vigilance\nWhenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.",
+      "toughness": "6",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Ojutai"
+    },
+    {
+      "artist": "Steven Belledin",
+      "cmc": 6,
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "flavor": "\"No machinations, no puppet strings, no plots. Just pure, sweeping death.\"\n—Tasigur, the Golden Fang",
+      "id": "e80087abd0195a436c6b4f5413ba3516629d768f",
+      "imageName": "silumgar, the drifting death",
+      "layout": "normal",
+      "manaCost": "{4}{U}{B}",
+      "multiverseid": 391924,
+      "name": "Silumgar, the Drifting Death",
+      "number": "157",
+      "power": "3",
+      "rarity": "Rare",
+      "subtypes": [
+        "Dragon"
+      ],
+      "supertypes": [
+        "Legendary"
+      ],
+      "text": "Flying, hexproof\nWhenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn.",
+      "toughness": "7",
+      "type": "Legendary Creature — Dragon",
+      "types": [
+        "Creature"
+      ],
+      "watermark": "Silumgar"
+    },
+    {
+      "artist": "Karl Kopinski",
+      "cmc": 4,
+      "colorIdentity": [
+        "W",
+        "R"
+      ],
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "flavor": "\"No sun or fire can warm my blood quite like a war flare.\"\n—Urut Barzeel, Mardu hordechief",
+      "id": "c145ea413c1069ecd56f4b509a709cc63b0f08c6",
+      "imageName": "war flare",
+      "layout": "normal",
+      "manaCost": "{2}{R}{W}",
+      "multiverseid": 391953,
+      "name": "War Flare",
+      "number": "158",
+      "rarity": "Common",
+      "text": "Creatures you control get +2/+1 until end of turn. Untap those creatures.",
+      "type": "Instant",
+      "types": [
+        "Instant"
+      ]
+    },
+    {
+      "artist": "Viktor Titov",
+      "cmc": 4,
+      "flavor": "Dragonfire spawned many imitations. Some were more dramatic than others.",
+      "id": "15f9f0ff80965203898628f137521ea63b5391ef",
+      "imageName": "goblin boom keg",
+      "layout": "normal",
+      "manaCost": "{4}",
+      "multiverseid": 391844,
+      "name": "Goblin Boom Keg",
+      "number": "159",
+      "rarity": "Uncommon",
+      "text": "At the beginning of your upkeep, sacrifice Goblin Boom Keg.\nWhen Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Aaron Miller",
+      "cmc": 2,
+      "flavor": "The best swords are forged with dragonfire.",
+      "id": "183e7b03221c2411841f40280d5493aae9794ee4",
+      "imageName": "hero's blade",
+      "layout": "normal",
+      "manaCost": "{2}",
+      "multiverseid": 391852,
+      "name": "Hero's Blade",
+      "number": "160",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Equipment"
+      ],
+      "text": "Equipped creature gets +3/+2.\nWhenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it.\nEquip {4}",
+      "type": "Artifact — Equipment",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "David Seguin",
+      "cmc": 3,
+      "flavor": "\"Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.\"\n—Jilaya, Temur whisperer",
+      "id": "e73e5d000b5e5c6f0539e6e6d733663e35325c0c",
+      "imageName": "hewed stone retainers",
+      "layout": "normal",
+      "manaCost": "{3}",
+      "multiverseid": 391853,
+      "name": "Hewed Stone Retainers",
+      "number": "161",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Golem"
+      ],
+      "text": "Cast Hewed Stone Retainers only if you've cast another spell this turn.",
+      "toughness": "4",
+      "type": "Artifact Creature — Golem",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Izzy",
+      "cmc": 7,
+      "flavor": "The most skilled Jeskai artisans can craft imposing golems with such precision that they will last an eternity—the time believed necessary to master the Fires of the Jeskai Way.",
+      "id": "255deb2924610df47358627f85532e7b24110d5a",
+      "imageName": "pilgrim of the fires",
+      "layout": "normal",
+      "manaCost": "{7}",
+      "multiverseid": 391893,
+      "name": "Pilgrim of the Fires",
+      "number": "162",
+      "power": "6",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Golem"
+      ],
+      "text": "First strike, trample",
+      "toughness": "4",
+      "type": "Artifact Creature — Golem",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Lake Hurwitz",
+      "cmc": 2,
+      "id": "876d35ba7d7dccc4265584a33c2d622c55ef1abc",
+      "imageName": "scroll of the masters",
+      "layout": "normal",
+      "manaCost": "{2}",
+      "multiverseid": 391916,
+      "name": "Scroll of the Masters",
+      "number": "163",
+      "rarity": "Rare",
+      "text": "Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.\n{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters.",
+      "type": "Artifact",
+      "types": [
+        "Artifact"
+      ]
+    },
+    {
+      "artist": "Peter Mohrbacher",
+      "cmc": 4,
+      "flavor": "While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri.",
+      "id": "61e5bcb23f2e71eff0a565808a42c6e5f6add13a",
+      "imageName": "ugin's construct",
+      "layout": "normal",
+      "manaCost": "{4}",
+      "multiverseid": 391949,
+      "name": "Ugin's Construct",
+      "number": "164",
+      "power": "4",
+      "rarity": "Uncommon",
+      "subtypes": [
+        "Construct"
+      ],
+      "text": "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.",
+      "toughness": "5",
+      "type": "Artifact Creature — Construct",
+      "types": [
+        "Artifact",
+        "Creature"
+      ]
+    },
+    {
+      "artist": "Adam Paquette",
+      "colorIdentity": [
+        "B",
+        "R"
+      ],
+      "id": "b955914771076bf9d1965892017f965f21ee2818",
+      "imageName": "bloodfell caves",
+      "layout": "normal",
+      "multiverseid": 391802,
+      "name": "Bloodfell Caves",
+      "number": "165",
+      "rarity": "Common",
+      "text": "Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Sam Burley",
+      "colorIdentity": [
+        "G",
+        "W"
+      ],
+      "id": "56e96714195e2978db637eff0cf314d400682c49",
+      "imageName": "blossoming sands",
+      "layout": "normal",
+      "multiverseid": 391804,
+      "name": "Blossoming Sands",
+      "number": "166",
+      "rarity": "Common",
+      "text": "Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Jung Park",
+      "id": "d67fc22b2d3ed413def89971177d2465dd66ec70",
+      "imageName": "crucible of the spirit dragon",
+      "layout": "normal",
+      "multiverseid": 391812,
+      "name": "Crucible of the Spirit Dragon",
+      "number": "167",
+      "rarity": "Rare",
+      "text": "{T}: Add {1} to your mana pool.\n{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.\n{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Sam Burley",
+      "colorIdentity": [
+        "U",
+        "B"
+      ],
+      "id": "d693bcc505cf5d8e7d335dff03559ac5e43dc642",
+      "imageName": "dismal backwater",
+      "layout": "normal",
+      "multiverseid": 391820,
+      "name": "Dismal Backwater",
+      "number": "168",
+      "rarity": "Common",
+      "text": "Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "B",
+        "G"
+      ],
+      "id": "1e38da6573938a810dbc63384b9fd450b97469c5",
+      "imageName": "jungle hollow",
+      "layout": "normal",
+      "multiverseid": 391865,
+      "name": "Jungle Hollow",
+      "number": "169",
+      "rarity": "Common",
+      "text": "Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.\n{T}: Add {B} or {G} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "R",
+        "G"
+      ],
+      "id": "ca6bc84f460e2dba864f608aa296c16c03f34102",
+      "imageName": "rugged highlands",
+      "layout": "normal",
+      "multiverseid": 391908,
+      "name": "Rugged Highlands",
+      "number": "170",
+      "rarity": "Common",
+      "text": "Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "W",
+        "B"
+      ],
+      "id": "e9072d9e8d050fff5d072dceaf5acb52e8eb2426",
+      "imageName": "scoured barrens",
+      "layout": "normal",
+      "multiverseid": 391915,
+      "name": "Scoured Barrens",
+      "number": "171",
+      "rarity": "Common",
+      "text": "Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.\n{T}: Add {W} or {B} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "U",
+        "R"
+      ],
+      "id": "edf49091ff48c726bdb96cb69800fb3e34918659",
+      "imageName": "swiftwater cliffs",
+      "layout": "normal",
+      "multiverseid": 391936,
+      "name": "Swiftwater Cliffs",
+      "number": "172",
+      "rarity": "Common",
+      "text": "Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "G",
+        "U"
+      ],
+      "id": "e4b1590f7e13081c0969e89bf9d5966c8fe820ef",
+      "imageName": "thornwood falls",
+      "layout": "normal",
+      "multiverseid": 391944,
+      "name": "Thornwood Falls",
+      "number": "173",
+      "rarity": "Common",
+      "text": "Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "John Avon",
+      "colorIdentity": [
+        "W",
+        "U"
+      ],
+      "id": "f7333c99924c7dca4cd30e69de473894e4202a70",
+      "imageName": "tranquil cove",
+      "layout": "normal",
+      "multiverseid": 391946,
+      "name": "Tranquil Cove",
+      "number": "174",
+      "rarity": "Common",
+      "text": "Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Eytan Zana",
+      "colorIdentity": [
+        "R",
+        "W"
+      ],
+      "id": "ab51c0d84d8b1d287ef498203b870d252a1d01b4",
+      "imageName": "wind-scarred crag",
+      "layout": "normal",
+      "multiverseid": 391963,
+      "name": "Wind-Scarred Crag",
+      "number": "175",
+      "rarity": "Common",
+      "text": "Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W} to your mana pool.",
+      "type": "Land",
+      "types": [
+        "Land"
+      ]
+    },
+    {
+      "artist": "Noah Bradley",
+      "id": "1605bf362ec63a38a9b974d5b98c4cac2d38f9bb",
+      "imageName": "plains1",
+      "layout": "normal",
+      "multiverseid": 391895,
+      "name": "Plains",
+      "number": "176",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391894
+      ]
+    },
+    {
+      "artist": "Sam Burley",
+      "id": "2e791c39b43f1145982a4a9e8544e9404c90bb77",
+      "imageName": "plains2",
+      "layout": "normal",
+      "multiverseid": 391894,
+      "name": "Plains",
+      "number": "177",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Plains"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Plains",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391895
+      ]
+    },
+    {
+      "artist": "Florian de Gesincourt",
+      "id": "9932fd7a619e9a406bc9dcdc491f27663a106e4f",
+      "imageName": "island1",
+      "layout": "normal",
+      "multiverseid": 391859,
+      "name": "Island",
+      "number": "178",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391860
+      ]
+    },
+    {
+      "artist": "Titus Lunter",
+      "id": "0c1cca6ae980043ddbc86e59a8439f61f069737f",
+      "imageName": "island2",
+      "layout": "normal",
+      "multiverseid": 391860,
+      "name": "Island",
+      "number": "179",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Island"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Island",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391859
+      ]
+    },
+    {
+      "artist": "Sam Burley",
+      "id": "94b632bfb25c2766b56d2ebe1404759b5afc70b5",
+      "imageName": "swamp1",
+      "layout": "normal",
+      "multiverseid": 391934,
+      "name": "Swamp",
+      "number": "180",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391935
+      ]
+    },
+    {
+      "artist": "Adam Paquette",
+      "id": "bc579b9a7d87a6d3b42adec39020d96b6a16d725",
+      "imageName": "swamp2",
+      "layout": "normal",
+      "multiverseid": 391935,
+      "name": "Swamp",
+      "number": "181",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Swamp"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Swamp",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391934
+      ]
+    },
+    {
+      "artist": "Noah Bradley",
+      "id": "a767e3928675ea28ec0159314c4feef417339d7e",
+      "imageName": "mountain1",
+      "layout": "normal",
+      "multiverseid": 391885,
+      "name": "Mountain",
+      "number": "182",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391886
+      ]
+    },
+    {
+      "artist": "Florian de Gesincourt",
+      "id": "d09552da924bb6858945d9c2d7b92e79ffc27418",
+      "imageName": "mountain2",
+      "layout": "normal",
+      "multiverseid": 391886,
+      "name": "Mountain",
+      "number": "183",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Mountain"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Mountain",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391885
+      ]
+    },
+    {
+      "artist": "Titus Lunter",
+      "id": "ebafb089fd17966076efe17f4354df861e47af8e",
+      "imageName": "forest1",
+      "layout": "normal",
+      "multiverseid": 391836,
+      "name": "Forest",
+      "number": "184",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391835
+      ]
+    },
+    {
+      "artist": "Adam Paquette",
+      "id": "bcdfb116bbde7fc6d34ef286fe9b5999b3d985c1",
+      "imageName": "forest2",
+      "layout": "normal",
+      "multiverseid": 391835,
+      "name": "Forest",
+      "number": "185",
+      "rarity": "Basic Land",
+      "subtypes": [
+        "Forest"
+      ],
+      "supertypes": [
+        "Basic"
+      ],
+      "type": "Basic Land — Forest",
+      "types": [
+        "Land"
+      ],
+      "variations": [
+        391836
+      ]
+    }
+  ]
+}
